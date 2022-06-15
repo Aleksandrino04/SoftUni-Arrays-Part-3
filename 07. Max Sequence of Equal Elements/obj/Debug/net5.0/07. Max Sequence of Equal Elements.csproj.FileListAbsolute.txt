@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.exe
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.deps.json
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.dll
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\bin\Debug\net5.0\ref\07. Max Sequence of Equal Elements.dll
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.pdb
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.dll
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\obj\Debug\net5.0\ref\07. Max Sequence of Equal Elements.dll
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.pdb
+C:\Users\maxib\source\repos\01. Day of Week\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.genruntimeconfig.cache
